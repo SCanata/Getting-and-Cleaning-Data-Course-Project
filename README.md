@@ -2,7 +2,7 @@
 
 This repository contains the R scripts and documentation for the data analysis of the Human Activity Recognition Using Smartphones Dataset. The analysis aims to merge, clean, and summarize the dataset to produce a tidy data set with the average of each variable for each activity and each subject.
 
-#Repository Contents
+##Repository Contents
 run_analysis.R: The main script that performs the data preparation and then followed by the analysis on the merged data.
 CodeBook.md: Describes the variables, the data, and any transformations or work performed to clean up the data.
 README.md: This file, explaining how all of the scripts work and how they are connected.
